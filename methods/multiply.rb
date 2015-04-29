@@ -1,4 +1,4 @@
-# greeting.rb
+# multiply.rb
 
 def multiply(a, b)
   a * b

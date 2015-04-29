@@ -1,4 +1,4 @@
-# number.rb
+# number2.rb
 
 def get_number()
   puts "Enter a number between 0 and 100"
